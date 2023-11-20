@@ -30,10 +30,9 @@ This repository contains the source code for a portfolio website built using Nex
 ## Sceenshots
 
 ![About](/screenshots/portfolio-1.png)
-![Services](/screenshots/portfolio-2.png)
 ![Experiences](/screenshots/portfolio-3.png)
-![Skills](/screenshots/portfolio-4.png)
 ![Projects](/screenshots/portfolio-5.png)
+![Skills](/screenshots/portfolio-4.png)
 ![Contact](/screenshots/portfolio-6.png)
 
 ## Getting Started
@@ -54,7 +53,7 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Sarthak8822/NextJS-Portfolio.git
+   git clone https://github.com/devraj-raghuvanshi/Portfolio-Website.git
    ```
 
 3. Navigate to the project directory:
@@ -122,10 +121,10 @@ Remember to configure environment variables for sensitive information like email
 
 ## Connect With Me
 
-[![GitHub: Sarthak8822](https://img.shields.io/badge/sarthak-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/Sarthak8822)][github]
-[![Linkedin: sarthak-modhe](https://img.shields.io/badge/sarthak-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/sarthak-modhe-129032202/)][linkedin]
-[![Gmail: sarthakpravin08@gmail.com](https://img.shields.io/badge/sarthakpravin08@gmail.com-EFF7F6?logo=Gmail&link=mailto:sarthakpravin08@gmail.com)][gmail]
+[![GitHub: devraj-raghuvanshi](https://img.shields.io/badge/devraj-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/devraj-raghuvanshi)][github]
+[![Linkedin: devraj-raghuvanshi](https://img.shields.io/badge/devraj-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/devraj-raghuvanshi-a695051b7/)][linkedin]
+[![Gmail: devrajraghu@gmail.com](https://img.shields.io/badge/devrajraghu@gmail.com-EFF7F6?logo=Gmail&link=mailto:devrajraghu@gmail.com)][gmail]
 
-[github]: https://github.com/Sarthak8822
-[linkedin]: https://www.linkedin.com/in/sarthak-modhe-129032202/
-[gmail]: mailto:sarthakpravin08@gmail.com
+[github]: https://www.github.com/devraj-raghuvanshi
+[linkedin]: https://www.linkedin.com/in/devraj-raghuvanshi-a695051b7/
+[gmail]: mailto:devrajraghu@gmail.com
