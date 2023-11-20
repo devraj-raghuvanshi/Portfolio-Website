@@ -5,11 +5,6 @@ const navMenus = [
     section: "about",
   },
   {
-    title: "Services",
-    path: "/#services",
-    section: "services",
-  },
-  {
     title: "Experiences",
     path: "/#experiences",
     section: "experiences",
