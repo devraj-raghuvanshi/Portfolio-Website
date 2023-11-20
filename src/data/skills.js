@@ -1,48 +1,38 @@
 const skills = [
   {
-    title: "React.js",
+    title: "NumPy",
     level: "⭐⭐⭐",
-    icon: "/logo/reactjs.webp",
+    icon: "/logo/numpy.webp",
   },
   {
-    title: "Next.js",
+    title: "Pandas",
     level: "⭐⭐⭐",
-    icon: "/logo/nextjs.webp",
+    icon: "/logo/pandas.webp",
   },
   {
-    title: "Node.js",
+    title: "TensorFlow",
     level: "⭐⭐⭐",
-    icon: "/logo/nodejs.webp",
+    icon: "/logo/tensorflow.webp",
   },
   {
-    title: "SQL",
+    title: "PyTorch",
+    level: "⭐⭐⭐",
+    icon: "/logo/pytorch.webp",
+  },
+  {
+    title: "Scikit-Learn",
+    level: "⭐⭐⭐",
+    icon: "/logo/scikit-learn.webp",
+  },
+  {
+    title: "OpenCV",
+    level: "⭐⭐",
+    icon: "/logo/opencv.webp",
+  },
+  {
+    title: "MySQL",
     level: "⭐⭐⭐",
     icon: "/logo/mysql.webp",
-  },
-  {
-    title: "HTML",
-    level: "⭐⭐⭐",
-    icon: "/logo/html.webp",
-  },
-  {
-    title: "React Native",
-    level: "⭐⭐",
-    icon: "/logo/reactjs.webp",
-  },
-  {
-    title: "CSS",
-    level: "⭐⭐⭐",
-    icon: "/logo/css.webp",
-  },
-  {
-    title: "MongoDB",
-    level: "⭐⭐⭐",
-    icon: "/logo/mongodb.webp",
-  },
-  {
-    title: "Flutter",
-    level: "⭐⭐⭐",
-    icon: "/logo/flutter.webp",
   },
 ];
 
